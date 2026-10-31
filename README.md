@@ -26,7 +26,7 @@ User Query (Streamlit UI)
                                        │ FAISS Index  │  │ FAISS Index  │
                                        │ (tech docs)  │  │  (faq docs)  │
                                        └──────────────┘  └──────────────┘
-
+```
 ---
 
 ## How Data Moves:
