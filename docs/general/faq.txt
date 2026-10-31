@@ -1,0 +1,23 @@
+===================================================================
+GENERAL KNOWLEDGE BASE & FREQUENTLY ASKED QUESTIONS (FAQ)
+===================================================================
+
+1. ACCOUNT ELIGIBILITY & AGE LIMITS
+- Minimum Age Requirement: You must be at least 18 years old to open an account. Users aged 13-17 may open a Teen Account managed under a parent or legal guardian's primary account.
+- Geographic Availability: We currently support residents of the European Economic Area (EEA), the United Kingdom, the United States, Canada, Australia, and Singapore.
+
+2. SUPPORTED CARDS & CURRENCIES
+- Card Types Accepted for Top-ups: Visa and Mastercard credit or debit cards are supported. Prepaid cards, American Express (Amex), and Discover cards are currently NOT accepted.
+- Multi-Currency Support: You can hold, exchange, and spend in over 30 fiat currencies including USD, EUR, GBP, CAD, AUD, JPY, and CHF. Crypto-to-fiat conversion is available for verified Tier 2 accounts.
+
+3. ATM WITHDRAWALS & CARD ACCEPTANCE
+- ATM Acceptance: Physical cards can be used at any ATM worldwide displaying the Visa or Mastercard logo.
+- ATM Limits: Free ATM withdrawals up to $200 (or equivalent) per rolling 30-day period. Withdrawals beyond this limit incur a 2% fee per transaction.
+
+4. EDITING PERSONAL DETAILS & PROFILE MANAGEMENT
+- Changing Legal Name or Date of Birth: Requires official legal documentation (e.g., Marriage Certificate, Deed Poll, or updated Passport). Contact support with scanned proof.
+- Updating Address, Email, or Phone Number: Can be done directly in the app under "Profile" -> "Personal Information". Address updates require proof of address (utility bill or bank statement) if changing countries.
+
+5. ACCOUNT TERMINATION & CLOSURE
+- Closing Your Account: Ensure your account balance is $0.00 and all pending transactions have settled. Transfer remaining funds to an external bank account, then go to "Settings" -> "Account" -> "Close Account".
+- Restricted & Disallowed Beneficiaries: Transfers to high-risk gambling platforms, unregistered crypto exchanges, or sanctioned jurisdictions are strictly prohibited and may result in immediate account closure.

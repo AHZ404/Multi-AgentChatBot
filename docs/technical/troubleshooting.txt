@@ -1,0 +1,23 @@
+===================================================================
+TECHNICAL SUPPORT & APP TROUBLESHOOTING GUIDE
+===================================================================
+
+1. LOGIN & PASSCODE ISSUES
+- Forgotten Passcode: Open the app, tap "Forgot Passcode?" on the login screen, enter your registered email address, and follow the magic link sent to your inbox to reset your 6-digit passcode.
+- Blocked Passcode: If you enter an incorrect passcode 5 times, your account will be temporarily locked for 30 minutes for security reasons. Wait 30 minutes or reset your passcode using email verification.
+
+2. CARD LINKING & VIRTUAL CARDS
+- Linking a Physical Card: Navigate to "Cards" tab -> tap "Add Card" -> select "Link Existing Physical Card". Enter the 16-digit card number or scan the card using your phone's camera.
+- Virtual Card Not Working: If your virtual card is declined for online purchases, check that "Online Transactions" are enabled in Card Settings. If problems persist, terminate the virtual card and generate a new one instantly in the app (up to 3 free virtual cards per month).
+
+3. PIN MANAGEMENT & BLOCKED CARDS
+- Changing Your PIN: Go to "Cards" -> select your card -> "Card Details" -> "Change PIN". Enter your app passcode to confirm, then enter your new 4-digit PIN.
+- PIN Blocked at ATM/POS: If you enter an incorrect PIN 3 times at an ATM or payment terminal, your PIN will be blocked. Unblock it immediately in the app under "Cards" -> "Security Options" -> "Unblock PIN".
+
+4. IDENTITY & TOP-UP VERIFICATION
+- Identity Verification Failure: Ensure your photo ID (Passport, Driver's License, or National ID) is clearly visible without glare, and all four corners are in the frame. Passports must be open to the photo page.
+- Source of Funds Verification: For high-volume top-ups, we may request a recent payslip or bank statement (issued within the last 3 months). Upload PDFs directly via "Settings" -> "Account Limits & Verification".
+
+5. APP CRASHES & CONTACTLESS ISSUES
+- App Crashing/Freezing: Ensure you are running the latest version of the app from the App Store or Google Play Store. Clear the app cache (Android: Settings -> Apps -> Storage -> Clear Cache) or reinstall the app.
+- Contactless Payments Not Working: Contactless payments require chip-and-PIN activation first. You must make one successful physical Chip & PIN purchase or ATM cash withdrawal before contactless capabilities are unlocked on a new card.

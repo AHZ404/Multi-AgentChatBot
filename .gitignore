@@ -1,0 +1,26 @@
+# Environments & Secrets
+.env
+.env.*
+.venv/
+env/
+venv/
+ENV/
+
+# IDE & Editor Settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Personal & Temporary Folders
+personal/
+Gen AI Unneeded Files/
+
+Search Indexes
+faiss_index_general/
+faiss_index_technical/
